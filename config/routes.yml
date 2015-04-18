@@ -1,0 +1,4 @@
+routes:
+
+  # Landing
+  GET /: Landing.index
